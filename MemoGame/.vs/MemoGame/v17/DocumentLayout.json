@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lidzi\\source\\repos\\MemoGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A30036C5-6408-49D4-9BE2-16B7C67396F1}|MemoGame.csproj|C:\\Users\\lidzi\\source\\repos\\MemoGame\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30036C5-6408-49D4-9BE2-16B7C67396F1}|MemoGame.csproj|solutionrelative:mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30036C5-6408-49D4-9BE2-16B7C67396F1}|MemoGame.csproj|c:\\users\\lidzi\\source\\repos\\memogame\\memogameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30036C5-6408-49D4-9BE2-16B7C67396F1}|MemoGame.csproj|solutionrelative:memogameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30036C5-6408-49D4-9BE2-16B7C67396F1}|MemoGame.csproj|C:\\Users\\lidzi\\source\\repos\\MemoGame\\difficultyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30036C5-6408-49D4-9BE2-16B7C67396F1}|MemoGame.csproj|solutionrelative:difficultyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30036C5-6408-49D4-9BE2-16B7C67396F1}|MemoGame.csproj|C:\\Users\\lidzi\\source\\repos\\MemoGame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30036C5-6408-49D4-9BE2-16B7C67396F1}|MemoGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemoGameForm.cs",
+              "DocumentMoniker": "C:\\Users\\lidzi\\source\\repos\\MemoGame\\MemoGameForm.cs",
+              "RelativeDocumentMoniker": "MemoGameForm.cs",
+              "ToolTip": "C:\\Users\\lidzi\\source\\repos\\MemoGame\\MemoGameForm.cs",
+              "RelativeToolTip": "MemoGameForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:38:33.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DifficultyForm.cs",
+              "DocumentMoniker": "C:\\Users\\lidzi\\source\\repos\\MemoGame\\DifficultyForm.cs",
+              "RelativeDocumentMoniker": "DifficultyForm.cs",
+              "ToolTip": "C:\\Users\\lidzi\\source\\repos\\MemoGame\\DifficultyForm.cs",
+              "RelativeToolTip": "DifficultyForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:38:17.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\lidzi\\source\\repos\\MemoGame\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\lidzi\\source\\repos\\MemoGame\\MainMenuForm.cs",
+              "RelativeToolTip": "MainMenuForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:37:18.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lidzi\\source\\repos\\MemoGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lidzi\\source\\repos\\MemoGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:54:09.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\lidzi\source\repos\MemoGame\bin\Debug\MemoGame.exe
+C:\Users\lidzi\source\repos\MemoGame\bin\Debug\MemoGame.pdb
+C:\Users\lidzi\source\repos\MemoGame\obj\Debug\MemoGame.csproj.AssemblyReference.cache
+C:\Users\lidzi\source\repos\MemoGame\obj\Debug\MemoGame.Properties.Resources.resources
+C:\Users\lidzi\source\repos\MemoGame\obj\Debug\MemoGame.csproj.GenerateResource.cache
+C:\Users\lidzi\source\repos\MemoGame\obj\Debug\MemoGame.csproj.CoreCompileInputs.cache
+C:\Users\lidzi\source\repos\MemoGame\obj\Debug\MemoGame.exe
+C:\Users\lidzi\source\repos\MemoGame\obj\Debug\MemoGame.pdb
